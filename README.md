@@ -1,2 +1,2 @@
--betweenness_centrality-
+Betweenness Centrality -- Dijkstra
 ========================
